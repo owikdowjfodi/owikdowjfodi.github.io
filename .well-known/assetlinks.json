@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.owikdowjfodi.app",
+        "sha256_cert_fingerprints": ["0D:1B:78:E7:60:04:CC:3F:11:FC:58:2C:37:64:74:4C:30:2E:F9:6F:5D:EC:0D:BE:AC:95:9C:85:90:C8:D0:B1"]
+      }
+    }]
